@@ -8,7 +8,7 @@ import io
 
 # --- Configuration ---
 TELEGRAM_BOT_TOKEN = "8316505279:AAEvpH0lEWxRVJJkwUkZ0Qo45T8Dbbtjvt4" # Get this from BotFather
-HF_API_TOKEN = "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" # Get this from Hugging Face settings
+HF_API_TOKEN = "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" # Get this from Hugging Face settings
 HF_MODEL_ID = "black-forest-labs/FLUX.1-Kontext-Dev"
 
 # --- Logging Setup ---
@@ -125,4 +125,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
 
